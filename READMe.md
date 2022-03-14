@@ -16,10 +16,15 @@
 
 - ⚡ Fun fact: Pink floyd is the best musical band that ever existed and this can't be debated over. Also The Office is what I go to when I feel down
 
-- 📫 How to reach me: <br>
-<a href="https://facebook.com/RamziJr.11" target="blank" style="display: inline-block;"><img src="https://img.icons8.com/office/40/000000/facebook-new.png" style="margin-right: 40px; margin-top:10px"/></a>
-<a href="https://www.linkedin.com/in/ramzi-latrous-ba00a6231/" target="blank"><img src="https://img.icons8.com/office/40/000000/linkedin-circled--v2.png" style="margin-right: 40px;"/></a>
-<a href="mailto:ramzi.latrous@insat.ucar.tn" target="blank"><img src="https://img.icons8.com/office/40/000000/gmail-login.png"/></a>
+- 🛠 Working Tools
+
+Concept | My preferences
+:---: | :---
+IDE | ![vscode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![intellij](https://img.icons8.com/color/48/000000/intellij-idea.png) ![pycharm](https://img.icons8.com/color/48/000000/pycharm.png)
+Frameworks and Languages | ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![python](https://img.icons8.com/color/48/000000/python--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![javascript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![typescript](https://img.icons8.com/color/48/000000/typescript.png) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Flask](https://img.icons8.com/fluency/48/000000/flask.png) ![NestJs](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
+CI / CD | ![Git](https://img.icons8.com/color/48/000000/git.png) ![Github](https://img.icons8.com/color/48/000000/github--v1.png)
+I am planning to learn | ![Go](https://img.icons8.com/color/48/000000/golang.png) ![graphQL](https://img.icons8.com/color/48/000000/graphql.png) ![Scala](https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg)
+
 
 - 📈 Here are some stats about my activity here on Github<br><br>
 
@@ -32,3 +37,9 @@ Account Stats | Most used Techs So far
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzi-dev611&theme=radical" style="margin: auto; display: block; width: 70%"/>
 
 ## I set a goal this year to contribute more to the open source community and improve my performance on github 💪💪
+<br>
+
+- 📫 How to reach me: <br>
+<a href="https://facebook.com/RamziJr.11" target="blank" style="display: inline-block;"><img src="https://img.icons8.com/office/40/000000/facebook-new.png" style="margin-right: 40px; margin-top:10px"/></a>
+<a href="https://www.linkedin.com/in/ramzi-latrous-ba00a6231/" target="blank"><img src="https://img.icons8.com/office/40/000000/linkedin-circled--v2.png" style="margin-right: 40px;"/></a>
+<a href="mailto:ramzi.latrous@insat.ucar.tn" target="blank"><img src="https://img.icons8.com/office/40/000000/gmail-login.png"/></a>
