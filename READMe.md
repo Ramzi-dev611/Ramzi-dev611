@@ -43,3 +43,5 @@ Account Stats | Most used Techs So far
 <a href="https://facebook.com/RamziJr.11" target="blank" style="display: inline-block;"><img src="https://img.icons8.com/office/40/000000/facebook-new.png" style="margin-right: 40px; margin-top:10px"/></a>
 <a href="https://www.linkedin.com/in/ramzi-latrous-ba00a6231/" target="blank"><img src="https://img.icons8.com/office/40/000000/linkedin-circled--v2.png" style="margin-right: 40px;"/></a>
 <a href="mailto:ramzi.latrous@insat.ucar.tn" target="blank"><img src="https://img.icons8.com/office/40/000000/gmail-login.png"/></a>
+
+Don't hesitate to talk to me about anything related to the tech industry I will be happily open to talk and share with you and learn from you too 😃
