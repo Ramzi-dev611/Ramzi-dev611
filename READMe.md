@@ -23,7 +23,9 @@
 <img src="https://img.icons8.com/office/40/000000/gmail-login.png" style="margin-right: 40px;"/></a>
 
 - 📈 Here are some stats about my activity here on Github<br><br>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Ramzi-dev611&hide_border=true&theme=redical"/><br><br>
-| Contributions Stat | Most used Techs So far |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=radical&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=radical&layout=compact"/> |
+
+Contributions Stat | Most used Techs So far 
+:---: | :---:
+![Contribution stats](https://github-readme-stats.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=radical&hide_border=true) | ![Most Used Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=radical&layout=compact)
