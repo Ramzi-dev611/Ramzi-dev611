@@ -25,6 +25,10 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Ramzi-dev611&hide_border=true&theme=redical"/><br><br>
 
-Contributions Stat | Most used Techs So far 
+Account Stats | Most used Techs So far 
 :---: | :---:
-![Contribution stats](https://github-readme-stats.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=radical&hide_border=true) | ![Most Used Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=radical&layout=compact)
+![General stats](https://github-readme-stats.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=radical&hide_border=true) | ![Most Used Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzi-dev611&theme=radical" style="margin: auto; display: block; width: 70%"/>
+
+## I set a goal this year to contribute more to the open source community and improve my performance on github 💪💪
