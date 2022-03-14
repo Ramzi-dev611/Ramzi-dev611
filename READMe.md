@@ -4,7 +4,7 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Ramzi-dev611&label=Profile%20views&color=0e75b6&style=flat" alt="Ramzi-dev611" /> <br><br>
 
-- 🔭 I’m currently working on a variety of mini-projects related to my educational program: mostly SecureChat app now
+- 🔭 I’m currently working on a variety of mini-projects related to my educational program: mostly **[SecureChat](https://github.com/Ramzi-dev611/secure-chat-front)** app now
 
 - 🌱 I’m currently learning Web development using diverse frameworks (**Angular** and **NestJs** mostly now)
 
@@ -17,6 +17,7 @@
 - ⚡ Fun fact: Pink floyd is the best musical band that ever existed and this can't be debated over. Also The Office is what I go to when I feel down
 
 - 📫 How to reach me: <br>
-<img src="https://img.icons8.com/office/40/000000/facebook-new.png" style="margin-right: 40px; margin-top:10px"/>
-<img src="https://img.icons8.com/office/40/000000/linkedin-circled--v2.png" style="margin-right: 40px;"/>
-<img src="https://img.icons8.com/office/40/000000/gmail-login.png" style="margin-right: 40px;"/>
+<a href="https://facebook.com/RamziJr.11" target="blank" style="display: inline-block;"><img src="https://img.icons8.com/office/40/000000/facebook-new.png" style="margin-right: 40px; margin-top:10px"/></a>
+<a href="https://www.linkedin.com/in/ramzi-latrous-ba00a6231/" target="blank"><img src="https://img.icons8.com/office/40/000000/linkedin-circled--v2.png" style="margin-right: 40px;"/></a>
+<a href="mailto:ramzi.latrous@insat.ucar.tn" target="blank">
+<img src="https://img.icons8.com/office/40/000000/gmail-login.png" style="margin-right: 40px;"/></a>
