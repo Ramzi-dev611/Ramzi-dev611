@@ -2,7 +2,8 @@
 
 <h2 text-align="center"> I am a junior with the mindset of a professional! and ready to take on new challenges </h2>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Ramzi-dev611&label=Profile%20views&color=0e75b6&style=flat" alt="Ramzi-dev611" /> <br><br>
+<img src="https://komarev.com/ghpvc/?username=Ramzi-dev611&label=Profile%20views&color=0e75b6&style=flat" alt="Ramzi-dev611" />
+<br><br>
 
 - 🔭 Joined the @Scaylab full stack web development team
 
@@ -33,13 +34,13 @@ I am planning to learn | ![Go](https://img.icons8.com/color/48/000000/golang.png
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ramzi-dev611&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
-Account Stats | Most used Techs So far 
+Account Stats | Most used Techs So far
 :---: | :---:
-![General stats](https://github-readme-stats.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=radical&hide_border=true) | ![Most Used Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=radical&layout=compact)
+![General stats](https://github-readme-stats-delta-livid-40.vercel.app/api?username=Ramzi-dev611&&show_icons=true&theme=dracula&hide_border=true) | ![Most Used Techs](https://github-readme-stats-delta-livid-40.vercel.app/api/top-langs/?username=Ramzi-dev611&theme=dracula&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzi-dev611&theme=radical" style="margin: auto; display: block; width: 70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzi-dev611&theme=dracula" style="margin: auto; display: block; width: 70%"/>
 
-## I set a goal this year to contribute more to the open source community and improve my performance on github 💪💪
+## I set a goal this year to contribute more to the open source and improve my performance on github 💪💪
 <br>
 
 - 📫 How to reach me: <br>
