@@ -29,7 +29,9 @@ I am planning to learn | ![Go](https://img.icons8.com/color/48/000000/golang.png
 
 - 📈 Here are some stats about my activity here on Github<br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ramzi-dev611&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://github-readme-activity-graph-alpha-silk.vercel.app/graph?username=Ramzi-dev611&theme=github
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-alpha-silk.vercel.app/graph?username=Ramzi-dev611&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 Account Stats | Most used Techs So far
