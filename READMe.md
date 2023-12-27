@@ -5,9 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ramzi-dev611&label=Profile%20views&color=0e75b6&style=flat" alt="Ramzi-dev611" />
 <br><br>
 
-- 🔭 Joined the @Scaylab full stack web development team
-
-- 🔭 Working on a variety of mini-projects related to my educational program
+- 🔭 Working on a variety of projects
 
 - 🌱 Learning Web development using diverse frameworks
 
